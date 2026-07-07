@@ -1,6 +1,6 @@
 # Business Research Brief Generator
 
-Built by **Shruti Agarwal** (LL.M., Commercial and Corporate Law, Queen Mary University of London) — a research consultancy workflow that converts raw source notes into an executive-ready business brief, with full evidence attribution, explicit assumptions, caveats, and next steps.
+Built by **Shruti Agarwal** (LL.M., Commercial and Corporate Law, Queen Mary University of London), a research consultancy workflow that converts raw source notes into an executive-ready business brief, with full evidence attribution, explicit assumptions, caveats, and next steps.
 
 ## Recruiter Signal (Research / Consulting Analyst)
 
