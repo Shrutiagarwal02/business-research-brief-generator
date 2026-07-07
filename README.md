@@ -1,16 +1,16 @@
 # Business Research Brief Generator
 
-Research analyst workflow that turns source notes into an executive-ready business brief with evidence, assumptions, caveats and next steps.
+Built by **Shruti Agarwal** (LL.M., Commercial and Corporate Law, Queen Mary University of London) — a research consultancy workflow that converts raw source notes into an executive-ready business brief, with full evidence attribution, explicit assumptions, caveats, and next steps.
 
-## Recruiter Signal
+## Recruiter Signal (Research / Consulting Analyst)
 
-This project shows research synthesis, business writing, evidence discipline, executive communication and decision support.
+This project demonstrates: research synthesis, **requirements gathering**, evidence discipline, **executive reporting**, business writing, and **data-driven decision-making** support.
 
-It is designed for roles such as:
+Built for roles such as:
 
 - Research Analyst
-- Business Analyst
 - Consulting Analyst
+- Business Analyst
 - Strategy Analyst
 - Policy / Market Research Associate
 
@@ -35,7 +35,7 @@ It is designed for roles such as:
 
 ## Why This Matters
 
-Research roles do not only require collecting information. A strong analyst must separate fact from assumption, explain confidence, highlight what is missing and convert research into a decision-ready recommendation. This project demonstrates that full workflow.
+Research roles require more than collecting information. A strong analyst separates fact from assumption, explains confidence, highlights what is missing, and converts research into a decision-ready recommendation, directly extending the research-to-recommendation discipline Shruti applied to regulatory and litigation research in legal practice.
 
 ## Tech Stack
 
@@ -59,5 +59,8 @@ streamlit run app.py
 
 ## Responsible AI Boundary
 
-The app should separate facts from assumptions and never cite sources that the user did not provide.
+The app separates facts from assumptions and never cites a source the user did not provide.
 
+---
+
+Part of a 12-project portfolio spanning legal and business analysis domains: [github.com/Shrutiagarwal02](https://github.com/Shrutiagarwal02)
